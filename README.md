@@ -1,4 +1,4 @@
-### Hello, It's Shashwath👋
+### Hello, I'm Shashwath👋
 
 <!--
 **shashshenoy/shashshenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
