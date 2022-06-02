@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://instagram.com/shashshenoy27?igshid=YmMyMTA2M2Y=>img scr="https://www.google.com/search?q=instagram+pic&oq=Instagram+pic&aqs=chrome.0.0i131i433i512l2j0i433i512j0i131i433i512j0i433i512j0i512l7j0i433i512j0i512l2.6174j0j7&client=ms-android-xiaomi-rvo2&sourceid=chrome-mobile&ie=UTF-8#imgrc=D8P-1u31KFw1vM>
+<a href="https://instagram.com/shashshenoy27?igshid=YmMyMTA2M2Y=>
+img src="https://www.google.com/search?q=instagram+pic&oq=Instagram+pic&aqs=chrome.0.0i131i433i512l2j0i433i512j0i131i433i512j0i433i512j0i512l7j0i433i512j0i512l2.6174j0j7&client=ms-android-xiaomi-rvo2&sourceid=chrome-mobile&ie=UTF-8#imgrc=D8P-1u31KFw1vM>
