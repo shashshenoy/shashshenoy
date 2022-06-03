@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 									
 <li><a href="https://www.instagram.com/shashshenoy27/" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 									
-									<li><a href="https://github.com/shashshenoy27" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+<li><a href="https://github.com/shashshenoy27" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
 							</center>
