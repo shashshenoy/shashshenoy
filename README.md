@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 <center>
  <ul class="icons">
 <li><a href="https://www.linkedin.com/in/shashwath-shenoy-m-a47948202/" target="_blank" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+<picture>
+  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
+  <source media="(min-width:465px)" srcset="img_white_flower.jpg">
+  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+</picture>
 								
 <li><a href="https://twitter.com/shashshenoy27" target="_blank" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 									
