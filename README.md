@@ -18,12 +18,10 @@ Here are some ideas to get you started:
  <ul class="icons">
 <li><a href="https://www.linkedin.com/in/shashwath-shenoy-m-a47948202/" target="_blank" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 
-<li>
+
   <a href="https://www.linkedin.com/in/shashwath-shenoy-m-a47948202/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="padding-right:10px;">
-    <span class="label">LinkedIn</span>
   </a>
-</li>
 								
 <li><a href="https://twitter.com/shashshenoy27" target="_blank" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 									
