@@ -16,21 +16,24 @@ Here are some ideas to get you started:
 -->
 ### Connect with Me :
 
+<div style="display: flex; gap: 20px; align-items: center;">
+  
   <a href="https://www.linkedin.com/in/shashwath-shenoy-m-a47948202/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" width="25" style="padding-right:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" width="35">
   </a>									
 
   <a href="https://twitter.com/shashshenoy27" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTwnA_cbtpvYtWYfPtisBpkedtXxX0Xy6fQ&s" alt="Twitter" width="25" style="padding-right:10px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTwnA_cbtpvYtWYfPtisBpkedtXxX0Xy6fQ&s" alt="Twitter" width="35">
   </a>
 
   <a href="https://www.instagram.com/shashshenoy27/" target="_blank">
-    <img src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="Twitter" width="25" style="padding-right:10px;">
+    <img src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="Instagram" width="35">
   </a>
 
   <a href="https://github.com/shashshenoy" target="_blank">
-    <img src="https://gyazo.com/85e7ce9196ae635161fec921602903a7/max_size/1000" alt="Twitter" width="25" style="padding-right:10px;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="35">
   </a>
+</div>
 
 
 
