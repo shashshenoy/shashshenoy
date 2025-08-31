@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 <center>
  <ul class="icons">
 <li><a href="https://www.linkedin.com/in/shashwath-shenoy-m-a47948202/" target="_blank" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+
+<li>
+  <a href="https://www.linkedin.com/in/shashwath-shenoy-m-a47948202/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="padding-right:10px;">
+    <span class="label">LinkedIn</span>
+  </a>
+</li>
 								
 <li><a href="https://twitter.com/shashshenoy27" target="_blank" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 									
@@ -25,8 +32,6 @@ Here are some ideas to get you started:
 <li><a href="https://github.com/shashshenoy" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 </ul>
 
---https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
 
 Hello guys, I'm **Shashwath Shenoy**. I am a DevOps Engineer from Mangalore, India.
