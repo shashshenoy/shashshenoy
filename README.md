@@ -35,17 +35,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-
-Hello guys, I'm Shashwath Shenoy. I am a DevOps Engineer from Mangalore, India. I'm currently working on Infosys.
-
-
-
-
-
-
-
-
-
 Hello guys, I'm **Shashwath Shenoy**. I am a DevOps Engineer from Mangalore, India.
 I'm currently working on Infosys.
 
