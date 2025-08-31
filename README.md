@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Connect with Me :
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 50px; align-items: center;">
   
   <a href="https://www.linkedin.com/in/shashwath-shenoy-m-a47948202/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" width="35">
