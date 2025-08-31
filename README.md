@@ -42,7 +42,4 @@ I'm currently working on Infosys.
 <img align="left" alt="AWS" width="26px" src="https://dxc.scene7.com/is/image/dxc/AWS_logo-1050x1050?qlt=90&wid=1200&ts=1748557242421&$square_desktop$&dpr=off" style="padding-right:10px;" />
 
 
-<br />
-<br />
-
 
