@@ -16,24 +16,29 @@ Here are some ideas to get you started:
 -->
 ### Connect with Me :
 
-<div style="display: flex; gap: 50px; align-items: center;">
-  
-  <a href="https://www.linkedin.com/in/shashwath-shenoy-m-a47948202/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" width="35">
-  </a>									
+<a href="https://www.linkedin.com/in/shashwath-shenoy-m-a47948202/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" width="25" />
+</a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://twitter.com/shashshenoy27" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTwnA_cbtpvYtWYfPtisBpkedtXxX0Xy6fQ&s" alt="Twitter" width="35">
-  </a>
+<a href="https://twitter.com/shashshenoy27" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTwnA_cbtpvYtWYfPtisBpkedtXxX0Xy6fQ&s" alt="Twitter" width="25" />
+</a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/shashshenoy27/" target="_blank">
-    <img src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="Instagram" width="35">
-  </a>
+<a href="https://www.instagram.com/shashshenoy27/" target="_blank">
+  <img src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="Instagram" width="25" />
+</a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/shashshenoy" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="35">
-  </a>
-</div>
+<a href="https://github.com/shashshenoy" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="25" />
+</a>
+
+<br>
+<br>
+
+
+Hello guys, I'm Shashwath Shenoy. I am a DevOps Engineer from Mangalore, India. I'm currently working on Infosys.
+
+
 
 
 
