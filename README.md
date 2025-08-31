@@ -14,20 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Connect with Me:
+### Connect with Me :
 
   <a href="https://www.linkedin.com/in/shashwath-shenoy-m-a47948202/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" width="25" style="padding-right:10px;">
-  </a>
-																	
-<li><a href="https://www.instagram.com/shashshenoy27/" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-									
-<li><a href="https://github.com/shashshenoy" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-</ul>
+  </a>									
 
   <a href="https://twitter.com/shashshenoy27" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTwnA_cbtpvYtWYfPtisBpkedtXxX0Xy6fQ&s" alt="Twitter" width="25" style="padding-right:10px;">
   </a>
+
+  <a href="https://www.instagram.com/shashshenoy27/" target="_blank">
+    <img src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="Twitter" width="25" style="padding-right:10px;">
+  </a>
+
+  <a href="https://github.com/shashshenoy" target="_blank">
+    <img src="https://gyazo.com/85e7ce9196ae635161fec921602903a7/max_size/1000" alt="Twitter" width="25" style="padding-right:10px;">
+  </a>
+
+
 
 
 
